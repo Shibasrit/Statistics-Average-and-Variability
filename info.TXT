@@ -1,0 +1,7 @@
+Finding the Two Best Markets to Advertise in an E-learning Product
+
+In this project, we tried find the two best markets to advertise our product in, for an e-learning company that offers courses on programming. Most of the courses are on web and mobile development, but some other domains, like data science, game development, etc are also covered.
+
+Understanding the Data
+
+To avoid spending money on organizing a survey, existing data to determine whether we can reach any reliable result is used from freeCodeCamp's 2017 New Coder Survey. freeCodeCamp is a free e-learning platform that offers courses on web development. Because they run a popular Medium publication (over 400,000 followers), their survey attracted new coders with varying interests (not only web development), which is ideal for the purpose of the analysis.

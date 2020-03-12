@@ -1,0 +1,5 @@
+Conclusion
+
+In this project, survey data from new coders is analyzed to find the best two markets to advertise in. The only solid conclusion reached is that the US would be a good market to advertise in.
+
+For the second best market, it wasn't clear-cut what to choose between India and Canada. It's decided to send the results to the marketing team so they can use their domain knowledge to take the best decision.
